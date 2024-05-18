@@ -1,2 +1,3 @@
 # Mentorness
-Machine learning Internship 
+Machine learning and Data Analyst Internship
+
